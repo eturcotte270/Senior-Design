@@ -18,7 +18,7 @@ May 2024 - Present
 **Teaching Assistant**  
 *Computer Science 1 - CS 1021C*  
 January 2024 - May 2024  
-•	Assist first year students excel in their first programming class  
+•	Assist first year students excel in their introductory programming class  
 •	Provide frequent and positive feedback to students to create a welcoming environment  
 
 #### Skills
