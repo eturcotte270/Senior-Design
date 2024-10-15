@@ -1,12 +1,14 @@
 # Milestones
 
 #### Setup 
-1. Set up development environment
-2. Research database to store user and reference data
-3. Connect environment to database
+- Set up development environment
+- Research database to store user and reference data
+- Connect environment to database
+
+Deliverables: Fully functional development space
 
 #### UI Design
-1. UI Design Diagrams for all pages:
+- UI Design Diagrams for all pages:
   - Home page
   - Weekly view of team schedules
   - Interactive map
@@ -14,22 +16,46 @@
     - tracks which stadium users has attended
     - store saved planned trips
 
+Deliverables: Drawings for every pages design
 
 #### Interactivity Design
-1. Develop a list of interactive features for each page
+- Develop a list of interactive features for each page
 
+Deliverables: List of interactive features broken down by page
 
 #### Database Management
+- Obtain 2025 MLB Schedule data
+- Design a relational database for schedule and user data
+- Set up the relational database
+- Place schedule data in a database
 
+Deliverables: Relational database diagram, functional database with MLB data
 
 #### UI Development
+- Implement all pages layout and design (HTML/CSS)
 
+Deliverables: All page layouts meeting design requirements
 
 #### Interactivity Development
+- Implement all interactive features (JavaScript/Java)
 
+Deliverables: Interactive application meeting all design requirements
+
+#### Testing
+- Create tests for all application features
+- Perform testing
+- Document testing
+
+Deliverables: Fully tested and documented web application
 
 #### Push to Production 
-1. Research how to publish webpage
-2. Publish webpage for public view
+- Research how to publish webpage
+- Publish webpage for public view
 
-#### Documentation 
+Deliverables: Published web application for all to enjoy
+
+#### Documentation
+- Create fall design presentation
+- Create senior design expo poster
+
+Deliverables: Fall design presentaion, expo poster
