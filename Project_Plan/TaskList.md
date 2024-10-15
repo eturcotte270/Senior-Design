@@ -9,8 +9,10 @@
 6. Design UI for application
 7. Determine user inputs
 8. Implement application UI
-9. Implement back-end code for displaying data
-10. Test the display of data
-11. Design back-end algorithms for creating schedules
-12. Implement back-end code for the algorithms
-13. Test the algorithms
+9. Develop user login
+10. Design database to manage user data
+11. Implement back-end code for displaying data
+12. Test the display of data
+13. Design back-end algorithms for creating schedules
+14. Implement back-end code for the algorithms
+15. Test the algorithms
