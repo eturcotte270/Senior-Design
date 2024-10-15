@@ -15,7 +15,10 @@ Root
 - [Biography](Biography.md)
 - [Project Description](Project-Description.md)
 - [User Stories](User_Stories.md)
-- [Task List](Tasklist.md)
+
+Project Plan
+- [Task List](ProjectPlan/Tasklist.md)
+- [Milestones](ProjectPlan/Milestones.md)
 
 Homework
 - [Capstone Assessment](Homework/Capstone%20Assessment.pdf)
