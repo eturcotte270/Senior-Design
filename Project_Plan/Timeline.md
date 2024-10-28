@@ -16,7 +16,7 @@ Home page display | 11/5/2024 | 11/12/2024
 Weekly view calendar display | 11/13/2024 | 11/19/2024
 Map display | 11/20/2024 | 11/26/2024
 User page display | 11/27/2024 | 12/3/2024
-Interactivity Design | *12/4/2024* | *12/11/2024*
+*Interactivity Design* | *12/4/2024* | *12/11/2024*
 Interactive features for home page | 12/4/2024 | 12/5/2024
 Interactive features for weekly view calendar | 12/6/2024 | 12/7/2024
 Interactive features for interactive map | 12/8/2024 | 12/9/2024
