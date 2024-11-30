@@ -6,6 +6,6 @@
 5. ABET Concerns Essay
 6. PPT Slideshow
 7. Self-Assessment Essays
-8. Professional Biography
+8. [Professional Biography](Biography.md)
 9. [Budget](Budget.md)
 10. Appendix
