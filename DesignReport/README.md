@@ -7,5 +7,5 @@
 6. PPT Slideshow
 7. Self-Assessment Essays
 8. Professional Biography
-9. Budget
+9. [Budget](Budget.md)
 10. Appendix
