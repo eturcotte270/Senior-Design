@@ -1,8 +1,12 @@
 **TABLE OF CONTENTS**
 1. [Team Members and Project Abstract](ProjectAbstract.md)
 2. Project Description
-3. User Stories and Design Diagrams
-4. Project Tasks and Timeline 
+3. User Stories and Design Diagrams  
+   a. [User Stories](UserStories.md)  
+   b. Design Diagrams
+4. Project Tasks and Timeline  
+   a. Project Tasks
+   b. Timeline
 5. ABET Concerns Essay
 6. PPT Slideshow
 7. Self-Assessment Essays
