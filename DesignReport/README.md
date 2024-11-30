@@ -7,7 +7,7 @@
    a. [User Stories](UserStories.md)  
    b. Design Diagrams
 4. Project Tasks and Timeline  
-   a. Project Tasks
+   a. Project Tasks  
    b. Timeline
 5. ABET Concerns Essay
 6. PPT Slideshow
