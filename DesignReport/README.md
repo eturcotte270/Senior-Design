@@ -1,5 +1,5 @@
 **TABLE OF CONTENTS**
-1. Team names and Project Abstract
+1. [Team Members and Project Abstract](ProjectAbstract.md)
 2. Project Description
 3. User Stories and Design Diagrams
 4. Project Tasks and Timeline 
