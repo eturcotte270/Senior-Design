@@ -1,6 +1,8 @@
-**TABLE OF CONTENTS**
+# Design Report
+
+### Table of Contents
 1. [Team Members and Project Abstract](ProjectAbstract.md)
-2. Project Description
+2. [Project Description](ProjectDescription.md)
 3. User Stories and Design Diagrams  
    a. [User Stories](UserStories.md)  
    b. Design Diagrams
