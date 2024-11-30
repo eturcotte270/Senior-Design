@@ -9,5 +9,3 @@
 8. Professional Biography
 9. Budget
 10. Appendix
-include appropriate references, citations, links to code repositories, and meeting notes.
-there should be evidence justifying 45 hours of effort for each team member.
