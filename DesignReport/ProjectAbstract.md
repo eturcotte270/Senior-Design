@@ -1,7 +1,11 @@
-## MLB Trip Planner
+# MLB Trip Planner
 
-Members: Emily Turcotte (Computer Science)
+## Project Members
+**Emily Turcotte**  
+*Major:* Computer Science  
+*Minors:* Business Analytics and Mathematics  
+*Contact:* turcotea@mail.uc.edu
 
-Advisor: Will Hawkins
+Advisor: Professor Will Hawkins
 
 Project Abstract: **FILL IN**
