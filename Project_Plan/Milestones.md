@@ -1,12 +1,5 @@
 # Milestones
 
-#### Setup 
-- Set up development environment
-- Research database to store user and reference data
-- Connect environment to database
-
-Deliverables: Fully functional development space
-
 #### UI Design
 - UI Design Diagrams for all pages:
   - Home page
@@ -23,36 +16,28 @@ Deliverables: Drawings for every pages design
 
 Deliverables: List of interactive features broken down by page
 
-#### Database Management
-- Obtain 2025 MLB Schedule data
-- Design a relational database for schedule and user data
-- Set up the relational database
-- Place schedule data in a database
-
-Deliverables: Relational database diagram, functional database with MLB data
-
 #### UI Development
-- Implement all pages layout and design (HTML/CSS)
+- Implement all pages layout and design (JSP/CSS)
 
 Deliverables: All page layouts meeting design requirements
 
 #### Interactivity Development
-- Implement all interactive features (JavaScript/Java)
+- Implement all interactive features (JavaScript/Java/SQL)
 
 Deliverables: Interactive application meeting all design requirements
 
 #### Testing
-- Create tests for all application features
+- Create tests for all application features and data manipulation
 - Perform testing
 - Document testing
 
 Deliverables: Fully tested and documented web application
 
 #### Push to Production 
-- Research how to publish webpage
-- Publish webpage for public view
+- Publish webpage for department use
+- Maintain a log for defects and additions for future releases
 
-Deliverables: Published web application for all to enjoy
+Deliverables: Published web application for department to enjoy and continue to enhance the application
 
 #### Documentation
 - Create fall design presentation
