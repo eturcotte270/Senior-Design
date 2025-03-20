@@ -11,21 +11,13 @@
 
 ## Project Description
 
-## Repository Contents 
-Root
-- [Biography](Biography.md)
-- [Project Description](Project-Description.md)
-- [User Stories](User-Stories.md)
-- [Project Constraints](Project-Constraints.md)
+## Repository Contents  
+
+Design Report
 
 Project Plan
 - [Task List](Project_Plan/Tasklist.md)
 - [Milestones](Project_Plan/Milestones.md)
-- [Timeline](Project_Plan/Timeline.md)
-
-Homework
-- [Capstone Assessment](Homework/Capstone%20Assessment.pdf)
-- [Team Contract](Homework/Team%20Contract.pdf)
 
 Design Diagrams
 - [Design D0](Design_Diagrams/DesignD0.pdf)
