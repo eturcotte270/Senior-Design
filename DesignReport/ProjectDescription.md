@@ -8,5 +8,6 @@ A Web Application used in work item management that is being transitioned from M
 - view all work items 
 - view all support tasks 
 - weekly planning
-- view unassigned work items  
+- view unassigned work items
+
 Each page will have its own set of user interactivity and features.  
