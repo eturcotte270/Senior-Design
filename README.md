@@ -1,4 +1,5 @@
-# MLB Stadium Trip Planner
+# Starbase: A Worklog Application
+### Sponsored By: The Cincinnati Insurance Company
 ### 2024-2025 Senior Design
 #### University of Cincinnati - College of Engineering and Applied Science
 
