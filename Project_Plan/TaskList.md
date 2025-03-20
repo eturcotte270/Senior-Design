@@ -1,18 +1,15 @@
 # Task List
 ##### All tasks will be completed by Emily Turcotte
 
-1. Research a server to run my webpage on
-2. Research a database system to use
-3. Research which languages to use
-4. Obtain 2025 MLB schedule data
-5. Obtain distance between each MLB stadium data
-6. Design UI for application
-7. Determine user inputs
-8. Implement application UI
-9. Develop user login
-10. Design database to manage user data
-11. Implement back-end code for displaying data
-12. Test the display of data
-13. Design back-end algorithms for creating schedules
-14. Implement back-end code for the algorithms
-15. Test the algorithms
+1. Design UI for application based off Microsoft Access Version
+2. Implement application UI using JSP/CSS
+3. Develop list of initial features for each page based off Microsoft Access Version
+4. For each page implement initial features in SQL Server, Java, JavaScript
+5. Design the pattern to set the default user
+6. Implement the method for setting default user
+7. Test the display of data for each page
+8. Test each feature on all pages
+9. Test adding/modifying data
+10. Push to production
+11. Maintain a log of new additions and defects
+12. Work on items in the log of defects/additions
