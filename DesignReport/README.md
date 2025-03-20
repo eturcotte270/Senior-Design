@@ -11,9 +11,6 @@
 5. Project Tasks and Timeline  
    a. [Project Tasks](../Project_Plan/TaskList.md)  
    b. [Timeline](../Project_Plan/Timeline.md)
-6. [ABET Concerns Essay](ProjectConstraints.md)
-7. [PPT Slideshow](../Homework/MLB%20Stadium%20Trip%20Planner%20Fall%20Presentation.pdf)
-8. [Self-Assessment Essay](../Homework/Capstone%20Assessment.pdf)
-9. [Professional Biography](Biography.md)
-10. [Budget](Budget.md)
+6. [Professional Biography](Biography.md)
+
 
