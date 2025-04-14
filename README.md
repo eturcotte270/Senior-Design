@@ -13,11 +13,15 @@
 
 ## Repository Contents  
 
+[Expo Display Images](ExpoDisplayImages.pdf)
+[Expo Poster](StarbasePoster-EmilyTurcotte.pdf)  
+
 Design Report  
 - [Biography](DesignReport/Biography.md)
 - [Project Abstract](DesignReport/ProjectAbstract.md)
 - [Project Description](DesignReport/ProjectDescription.md)
 - [User Stories](DesignReport/UserStories.md)
+- [Final Self Assessment](DesignReport/FinalSelfAssessment.pdf)
 
 Project Plan
 - [Task List](Project_Plan/TaskList.md)
